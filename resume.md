@@ -1,17 +1,23 @@
 <img style="float:right;border-radius:50%;width:100px;padding:6px" src="avatar.jpg" />
+
 <span style="float:right;padding:6px">
   +7 (927) 771-67-93 <br>
   sawrus@gmail.com <br>
   37 years old, Tolyatti <br>
   updated: 13.08.2026 <br>
 </span>
+
 # CTO / Engineering Manager
+
 ### Specialization
+
 * Chief Technology Officer
 * Head of Development Department
 
 ## Work Experience 16+ years
+
 ### Company name withheld under NDA (Head of Development, April 2024 - Present)
+
 Main Product: Antifraud Platform — a high-load decision-making platform for detecting and preventing fraud.
 
 Responsibilities:
@@ -37,6 +43,7 @@ Achievements:
 Stack: Python, Rust, FastAPI, Flask, JavaScript, PostgreSQL, Redis, ClickHouse, Elasticsearch, Kafka, Kubernetes, Docker, Temporal, GoRules, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, AI/ML
 
 ### Company Tensor (Head of Development Department, November 2022 - April 2024)
+
 Main Product: SBIS Maps (Russia, CIS countries), including postal address service, IP-based location service, route planning service for delivery of goods and cargo in Russia, and time zone service by continents.
 
 Responsibilities:
@@ -60,6 +67,7 @@ Achievements:
 Stack: JavaScript/TypeScript, React, inferno.js, Node.JS, C++, Python, PostgreSQL, Redis, Elasticsearch, ClickHouse, Boost, qt, SQLite, STL, Kotlin, Dagger2, RxJava2, AAC, Swift, UiKIT, MVP, MVVM, Viper, Kubernetes, Gitlab
 
 ### LATOKEN (Technical Lead / HR Platform Architect, July 2021 - October 2022)
+
 Product: HR platform designed to automate all processes related to hiring and employee management (screening, interviews, offers, KPI/OKR setting, document workflow, etc.). Reporting to the CEO.
 
 Responsibilities:
@@ -83,6 +91,7 @@ Achievements:
 Stack: React, JavaScript, Python, Django, PostgreSQL, Kubernetes, Gitlab
 
 ### Outsourcing Development (Chief Technology Officer, September 2019 - October 2022)
+
 Responsibilities:
 * Established an outsourcing company for software development
 * Built a team (developers, testers, analysts)
@@ -99,6 +108,7 @@ Sample Projects:
 Stack: Dart, Flutter, JavaScript, Python, Django, Flask, Celery, Postgres, MySQL, Redis, Kubernetes, Docker, Gitlab, NGINX, TCP/UDP, Unix sockets, Bash, Camunda BPM
 
 ### NETCRACKER (Project Manager, Technical Manager, Senior Java Developer, September 2010 - January 2021)
+
 2020 - 2021, telenet.be, Chief Project Manager, VP Substitute
 * Strategic planning for the operator's project group
 * Coordination of development directions with 10 tech managers
@@ -129,6 +139,7 @@ Stack: Dart, Flutter, JavaScript, Python, Django, Flask, Celery, Postgres, MySQL
 * Automation of the network element configuration for subscriber connection using twisted pair, development of an FAN device connectivity check module
 
 ### KSI (Game Developer C++, September 2009 - September 2010)
+
 Responsibilities:
 * Developed 2D+ games using C++
 * Designed performance tests for mathematical modules
