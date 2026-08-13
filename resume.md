@@ -2,8 +2,8 @@
 <span style="float:right;padding:6px">
   +7 (927) 771-67-93 <br>
   sawrus@gmail.com <br>
-  34 years old, Russia <br>
-  updated: 07.11.2023 <br>
+  37 years old, Tolyatti <br>
+  updated: 13.08.2026 <br>
 </span>
 # CTO / Engineering Manager
 ### Specialization
