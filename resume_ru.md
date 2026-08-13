@@ -3,8 +3,8 @@
 <span style="float:right;padding:6px">
   +7 (927) 771-67-93 <br>
   sawrus@gmail.com <br>
-  34 года, Тольятти <br>
-  07.11.2023 | [English](https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume.html) <br>
+  37 лет, Тольятти <br>
+  13.08.2026 | [English](https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume.html) <br>
 </span>
 
 # CTO / Engineering Manager
