@@ -10,8 +10,33 @@
 * Chief Technology Officer
 * Head of Development Department
 
-## Work Experience 14 years 3 months
-### Company Tensor (Head of Development Department, November 2022 - Present)
+## Work Experience 16+ years
+### Company name withheld under NDA (Head of Development, April 2024 - Present)
+Main Product: Antifraud Platform — a high-load decision-making platform for detecting and preventing fraud.
+
+Responsibilities:
+* Defining the technical strategy and architecture of the platform
+* Managing Backend, Frontend, DevOps, and QA teams, including resource planning and employee development
+* Designing high-load microservices and platform components
+* Developing decision-making services, Rule Engine capabilities, and ML solutions
+* Improving SDLC, CI/CD, monitoring, and production operations processes
+* Ensuring fault tolerance, scalability, and performance
+* Conducting architecture reviews and technology R&D
+
+Achievements:
+* Brought an automated payout approval process into production
+* Reduced account-link calculation latency from 10 seconds to 120 ms at P95
+* Brought ML transaction pre-scoring models into production
+* Introduced a Rule Engine and self-service tooling that enabled analysts to launch more than 300 antifraud rules independently
+* Built an isolated engineering infrastructure for the platform from scratch using Kubernetes, GitLab CI/CD, and Zero Trust principles
+* Built and developed an engineering team of 10+ specialists
+* Reduced time-to-market for new antifraud rules from several days to several hours
+* Designed and launched a unified operational data platform storing tens of terabytes of data
+* Unified the technology stack, engineering standards, and development processes across multiple product teams
+
+Stack: Python, Rust, FastAPI, Flask, JavaScript, PostgreSQL, Redis, ClickHouse, Elasticsearch, Kafka, Kubernetes, Docker, Temporal, GoRules, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, AI/ML
+
+### Company Tensor (Head of Development Department, November 2022 - April 2024)
 Main Product: SBIS Maps (Russia, CIS countries), including postal address service, IP-based location service, route planning service for delivery of goods and cargo in Russia, and time zone service by continents.
 
 Responsibilities:
@@ -146,8 +171,8 @@ Team Leadership
 * Category A driver's license
 
 ## About Me
-<br>14 years of software development experience, including web, desktop, and mobile application development, BSS/OSS solutions, high-load projects, and cartographic services.
-<br>7 years of experience in IT management, leading teams of up to 90 people.
+<br>16+ years of software development experience, including web, desktop, and mobile application development, BSS/OSS solutions, high-load projects, and cartographic services.
+<br>10 years of experience in IT management, leading teams of up to 90 people.
 <br>Skills in building effective departmental workflows and collaborating with cross-functional teams and internal stakeholders.
 <br>Knowledge and application of Agile, Lean, and Scrum principles.
 <br>Strong management skills, with the ability to build and motivate teams to achieve results.
