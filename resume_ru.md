@@ -203,6 +203,7 @@ CTO
 Английский язык на уровне B1/B2, опыт организации и проведения рабочих встреч на английском языке.
 
 ## Проекты
+* [Agent Guides](https://github.com/sawrus/agent-guides) — SDLC команды AI-агентов
 * [Мобильные сотрудники](https://sbis.ru/mobile_workers)
 * [Бот для найма](https://t.me/LATOKEN_hiring_bot)
 
