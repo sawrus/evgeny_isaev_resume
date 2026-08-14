@@ -201,6 +201,7 @@ Technical Skills:
 * Data transfer protocols based on nats and quic
 
 ## Projects
+* [Agent Guides](https://github.com/sawrus/agent-guides) — SDLC for AI agent teams
 * [Mobile Workers](https://sbis.ru/mobile_workers)
 * [Hiring Bot](https://t.me/LATOKEN_hiring_bot)
 
