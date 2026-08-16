@@ -1,13 +1,18 @@
-<img style="float:right;border-radius:50%;width:100px;padding:6px" src="avatar.jpg" />
-
-<span style="float:right;padding:6px">
-  +7 (927) 771-67-93 <br>
-  sawrus@gmail.com <br>
-  37 years old, Tolyatti <br>
-  Updated: 16 August 2026 | [Русский](https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume_ru.html) <br>
-</span>
-
-# Director of Engineering / Head of Engineering / CTO
+<div class="resume-header">
+  <div class="resume-heading">
+    <h1>Evgeny Isaev</h1>
+    <div class="resume-role">Director of Engineering · Head of Engineering · CTO</div>
+  </div>
+  <div class="resume-meta">
+    <div class="resume-contact">
+      +7 (927) 771-67-93<br>
+      sawrus@gmail.com<br>
+      37 years old, Tolyatti<br>
+      Updated: 16 August 2026 · <a href="https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume_ru.html">Русский</a>
+    </div>
+    <img class="resume-avatar" src="avatar.jpg" alt="Evgeny Isaev">
+  </div>
+</div>
 
 ## Executive Profile
 
@@ -233,14 +238,14 @@ Progressed over ten years from Java Developer to Chief Project Manager leading a
 
 ## Education
 
-**Tolyatti State University, 2010**
+<strong>Tolyatti State University, 2010</strong>
 
 Institute of Mathematics, Physics, and Information Technology  
 Mathematical Support and Administration of Information Systems
 
 ## Additional Education
 
-**Sberbank, 2019**
+<strong>Sberbank, 2019</strong>
 
 Business Model Development and Market Research
 
