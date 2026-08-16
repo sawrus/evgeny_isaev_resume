@@ -238,14 +238,14 @@ Progressed over ten years from Java Developer to Chief Project Manager leading a
 
 ## Education
 
-**Tolyatti State University, 2010**
+<strong>Tolyatti State University, 2010</strong>
 
 Institute of Mathematics, Physics, and Information Technology  
 Mathematical Support and Administration of Information Systems
 
 ## Additional Education
 
-**Sberbank, 2019**
+<strong>Sberbank, 2019</strong>
 
 Business Model Development and Market Research
 
