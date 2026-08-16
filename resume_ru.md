@@ -1,13 +1,18 @@
-<img style="float:right;border-radius:50%;width:100px;padding:6px" src="avatar.jpg" />
-
-<span style="float:right;padding:6px">
-  +7 (927) 771-67-93 <br>
-  sawrus@gmail.com <br>
-  37 лет, Тольятти <br>
-  Обновлено: 16.08.2026 | [English](https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume.html) <br>
-</span>
-
-# Director of Engineering / Head of Engineering / CTO
+<div class="resume-header">
+  <div class="resume-heading">
+    <h1>Евгений Исаев</h1>
+    <div class="resume-role">Director of Engineering · Head of Engineering · CTO</div>
+  </div>
+  <div class="resume-meta">
+    <div class="resume-contact">
+      +7 (927) 771-67-93<br>
+      sawrus@gmail.com<br>
+      37 лет, Тольятти<br>
+      Обновлено: 16.08.2026 · <a href="https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume.html">English</a>
+    </div>
+    <img class="resume-avatar" src="avatar.jpg" alt="Евгений Исаев">
+  </div>
+</div>
 
 ## Профессиональный профиль
 
