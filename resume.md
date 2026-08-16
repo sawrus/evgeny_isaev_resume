@@ -1,18 +1,17 @@
-<div class="resume-header">
-  <div class="resume-heading">
-    <h1>Evgeny Isaev</h1>
-    <div class="resume-role">Director of Engineering · Head of Engineering · CTO</div>
-  </div>
-  <div class="resume-meta">
-    <div class="resume-contact">
-      +7 (927) 771-67-93<br>
-      sawrus@gmail.com<br>
-      37 years old, Tolyatti<br>
-      Updated: 16 August 2026 · <a href="https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume_ru.html">Русский</a>
-    </div>
-    <img class="resume-avatar" src="avatar.jpg" alt="Evgeny Isaev">
-  </div>
-</div>
+<img style="float:right;border-radius:50%;width:80px;padding:6px" src="avatar.jpg" alt="Evgeny Isaev" />
+
+<span style="float:right;padding:6px;text-align:right">
+  +7 (927) 771-67-93 <br>
+  sawrus@gmail.com <br>
+  37 years old, Tolyatti <br>
+  Updated: 16 August 2026 · <a href="https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume_ru.html">Русский</a>
+</span>
+
+# Evgeny Isaev
+
+<div style="clear:both"></div>
+
+<div style="font-size:200%;font-weight:700;line-height:1.2;margin:8px 0 18px">Director of Engineering · Head of Engineering · CTO</div>
 
 ## Executive Profile
 
