@@ -11,7 +11,7 @@
 
 <div style="clear:both"></div>
 
-# Director of Engineering / Head of Engineering / CTO
+# Head of Engineering / CTO
 
 ## Профессиональный профиль
 
