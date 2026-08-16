@@ -4,216 +4,247 @@
   +7 (927) 771-67-93 <br>
   sawrus@gmail.com <br>
   37 years old, Tolyatti <br>
-  updated: 13.08.2026 <br>
+  Updated: 16 August 2026 | [Русский](https://raw.githack.com/sawrus/evgeny_isaev_resume/main/resume_ru.html) <br>
 </span>
 
-# CTO / Engineering Manager
+# Director of Engineering / Head of Engineering / CTO
 
-### Specialization
+## Executive Profile
 
-* Chief Technology Officer
-* Head of Development Department
+Engineering leader with 16 years of experience in software development and more than 10 years in engineering and technology management. Led organizations of up to 90 people, including internationally distributed teams.
 
-## Work Experience 16+ years
+I specialize in high-load fintech, antifraud, data-intensive systems, engineering platforms, and business-critical production infrastructure. I build and develop engineering functions end to end: technology strategy, architecture, organizational design, resource planning, hiring and people development, SDLC, production reliability, and technical debt management.
 
-### Company name withheld under NDA (Head of Development, April 2024 - Present)
+I retain hands-on technical depth in Python, PostgreSQL, Kafka, Kubernetes, and distributed systems. I translate complex engineering challenges into measurable outcomes, including lower processing latency, shorter time-to-market, greater reliability, and reduced operational workload.
 
-Main Product: Antifraud Platform — a high-load decision-making platform for detecting and preventing fraud.
+## Core Expertise
 
-Responsibilities:
-* Defining the technical strategy and architecture of the platform
-* Managing Backend, Frontend, DevOps, and QA teams, including resource planning and employee development
-* Designing high-load microservices and platform components
-* Developing decision-making services, Rule Engine capabilities, and ML solutions
-* Improving SDLC, CI/CD, monitoring, and production operations processes
-* Ensuring fault tolerance, scalability, and performance
-* Conducting architecture reviews and technology R&D
+* engineering organizations of up to 90 people
+* leadership of software engineering, QA, DevOps, analytics, and technical management
+* technology strategy and engineering platform development
+* organizational design, team building, and people development
+* high-load and distributed systems architecture
+* fintech, antifraud, BSS/OSS, and data platforms
+* resource planning, budgeting, and risk management
+* SDLC, CI/CD, observability, and production reliability
+* performance and technical debt management
+* adoption of AI coding agents and local LLMs across the SDLC
 
-Achievements:
-* Brought an automated payout approval process into production
-* Reduced account-link calculation latency from 10 seconds to 120 ms at P95
-* Brought ML transaction pre-scoring models into production
-* Introduced a Rule Engine and self-service tooling that enabled analysts to launch more than 300 antifraud rules independently
-* Built an isolated engineering infrastructure for the platform from scratch using Kubernetes, GitLab CI/CD, and Zero Trust principles
-* Built and developed an engineering team of 10+ specialists
-* Reduced time-to-market for new antifraud rules from several days to several hours
-* Designed and launched a unified operational data platform storing tens of terabytes of data
-* Unified the technology stack, engineering standards, and development processes across multiple product teams
+## Professional Experience
 
-Stack: Python, Rust, FastAPI, Flask, JavaScript, PostgreSQL, Redis, ClickHouse, Elasticsearch, Kafka, Kubernetes, Docker, Temporal, GoRules, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, AI/ML
+### Company name withheld under NDA
 
-### Company Tensor (Head of Development Department, November 2022 - April 2024)
+**Head of Development, April 2024 — Present**
 
-Main Product: SBIS Maps (Russia, CIS countries), including postal address service, IP-based location service, route planning service for delivery of goods and cargo in Russia, and time zone service by continents.
+Main product: Antifraud Platform, a high-load decision platform for detecting and preventing fraud.
 
-Responsibilities:
-* Planning the overall direction of product development, resource planning
-* Managing the development team (10+ people), defining job profiles, recruitment, and training, as well as performance evaluations
-* Establishing development processes, including QA and CI/CD
-* Designing architectures for high-load services (> 1000 RPS)
-* Designing integrations with Yandex, OSM, 2Gis
-* Preparing and developing infrastructure for projects, analyzing resource consumption, and load distribution
-* Working on improving product performance and quality
-* Budget planning and management
-* R&D tasks, researching new solutions and practices for existing problems and tasks
+**Scope of responsibility:**
 
-Achievements:
-* Accelerated the data update process from the Federal Tax Service registry from 3 days to 6 hours, implementing the ability to update data under load
-* Reduced development cycle by introducing test databases for quick experiments and tests
-* Updated routes on Russia and CIS maps with the introduction of a neural network for text analysis (aimed at filtering out offensive words)
-* Restructured and strengthened the team, hiring 4 developers
-* Initiated the certification and grade increase process, with 2 engineers currently receiving promotions
+* defining the technology strategy and target architecture of the Antifraud Platform
+* leading Backend, Frontend, DevOps, and QA functions
+* building the team, resource planning, and employee development
+* developing decision services, Rule Engine capabilities, ML components, and operational tooling
+* designing high-load microservices and platform components
+* unifying the technology stack and engineering standards across product teams
+* improving SDLC, CI/CD, monitoring, and production operations
+* ensuring fault tolerance, scalability, and performance
+* leading architecture reviews and technology R&D
+* collaborating with business stakeholders, analysts, and infrastructure organizations
 
-Stack: JavaScript/TypeScript, React, inferno.js, Node.JS, C++, Python, PostgreSQL, Redis, Elasticsearch, ClickHouse, Boost, qt, SQLite, STL, Kotlin, Dagger2, RxJava2, AAC, Swift, UiKIT, MVP, MVVM, Viper, Kubernetes, Gitlab
+**Key achievements:**
 
-### LATOKEN (Technical Lead / HR Platform Architect, July 2021 - October 2022)
+* initiated the unified Antifraud Platform program, defined its target architecture and technology stack, and developed a roadmap for consolidating fragmented antifraud services
+* launched an automated payout approval process in production
+* reduced account-link calculation latency from 10 seconds to 120 ms at P95, an improvement of more than 80 times
+* launched ML-based transaction pre-scoring models in production
+* introduced a Rule Engine and self-service tooling that enabled analysts to launch more than 300 antifraud rules independently
+* reduced time-to-market for new antifraud rules from several days to several hours
+* built an engineering team of more than 10 specialists from the ground up
+* built an isolated engineering environment based on Kubernetes, GitLab CI/CD, and Zero Trust principles
+* designed and launched a unified operational data platform storing tens of terabytes of data
+* unified the technology stack, development processes, and engineering standards across multiple product teams
+* established end-to-end monitoring of services, infrastructure dependencies, and business processes using Prometheus, Grafana, and Elasticsearch
+* began adopting AI coding agents, MCP, and local LLMs in software delivery and engineering R&D
 
-Product: HR platform designed to automate all processes related to hiring and employee management (screening, interviews, offers, KPI/OKR setting, document workflow, etc.). Reporting to the CEO.
+**Technology:** Python, Rust, FastAPI, Flask, JavaScript, PostgreSQL, Redis, ClickHouse, Elasticsearch, Kafka, Kubernetes, Docker, Temporal, GoRules, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, AI/ML.
 
-Responsibilities:
-* Planning the overall direction of HR platform development, working with internal stakeholders, gathering requirements, and forming the product development roadmap
-* Building and managing a team (25 members including developers, testers, devops, tech support, and PMs)
-* Designing the platform's architecture and integrations: zoom, clickup, discord, amazon, slack, amocrm, telegram, happyfox, calendly
-* Establishing DevOps processes
-* Working on improving product performance and quality
-* Budget planning and management
-* Implementing Scrum development processes with weekly sprints
+### Tensor
 
-Achievements:
-* Formed a team from scratch and established development, testing, and devops processes
-* Introduced standardization of UI elements for desktop, mobile, and tablets based on Google Material Design
-* Automated key processes within the platform:
-* Employee lifecycle (from recruitment to termination)
-* HR document workflow with electronic signatures
-* Budget control module for employees in various departments with quarterly forecasting capability
-* Employee hiring bot (from resume parsing to offering), issued 3300 offers
+**Head of Development, November 2022 — April 2024**
 
-Stack: React, JavaScript, Python, Django, PostgreSQL, Kubernetes, Gitlab
+Led the development of SBIS Maps for Russia and CIS countries, including postal address, IP geolocation, delivery route planning, and time-zone services.
 
-### Outsourcing Development (Chief Technology Officer, September 2019 - October 2022)
+**Scope of responsibility:**
 
-Responsibilities:
-* Established an outsourcing company for software development
-* Built a team (developers, testers, analysts)
-* Organized the development process
-* Consulted clients on IT product development strategies
-* Ensured the continuous operation and monitoring of K8S clusters
-* Budget planning and legal matters resolution
+* leading a software engineering team of more than 10 people
+* defining the product and technology roadmap
+* resource planning, hiring, onboarding, and performance reviews
+* budget planning and management
+* designing services handling more than 1,000 requests per second
+* developing engineering, QA, and CI/CD processes
+* designing integrations with Yandex, OpenStreetMap, and 2GIS
+* managing product performance, quality, and infrastructure
+* leading technology R&D
 
-Sample Projects:
-* Client: Irkutsk Oil Company. Developed a mobile messenger app for secure data exchange (8000+ users), implemented an architecture based on nats and quic
-* Client: OPEKA Group, a network of nursing homes. Developed a mobile app and server-side for caregiver tracking and piece-rate payroll calculation
-* Client: Leroy Merlin supplier. Developed a product catalog app with drawings, search by name, and SKU.
+**Key achievements:**
 
-Stack: Dart, Flutter, JavaScript, Python, Django, Flask, Celery, Postgres, MySQL, Redis, Kubernetes, Docker, Gitlab, NGINX, TCP/UDP, Unix sockets, Bash, Camunda BPM
+* reduced the Federal Tax Service registry update cycle from three days to six hours
+* enabled map data updates without service downtime and while maintaining production traffic
+* shortened the change-validation cycle by introducing dedicated test databases for rapid experiments and load testing
+* introduced an NLP model for analyzing and cleaning text data on maps across Russia and the CIS
+* restructured and strengthened the team by hiring four software engineers
+* established an employee assessment and career development process; two engineers were promoted
 
-### NETCRACKER (Project Manager, Technical Manager, Senior Java Developer, September 2010 - January 2021)
+**Technology:** JavaScript, TypeScript, React, Node.js, C++, Python, PostgreSQL, Redis, Elasticsearch, ClickHouse, Kotlin, Swift, Kubernetes, GitLab CI/CD.
 
-2020 - 2021, telenet.be, Chief Project Manager, VP Substitute
-* Strategic planning for the operator's project group
-* Coordination of development directions with 10 tech managers
-* Financial and resource management for a team of 90 people
-* Participation in executive meetings with Netcracker top management
+### LATOKEN
 
-2019 - 2020, turkcell.com.tr, Project Manager, PD Substitute
-* Closing contractual commitments of previous projects
-* Strategic planning for the operator's project group
-* Roadmap creation, risk map development, contract time and financial obligation agreements
-* Task planning at all stages from initiation to go-live
-* Business meetings with the company's top management in Istanbul
- 
-2016 - 2019, colt.net, Technical Manager
-* Coordination of teams across 5 different time zones, resource planning for a 20-engineer team
-* Post-warranty service organization, including documentation for the TOMS support team
-* Work schedule, Gantt chart for four development directions, and subsequent requirement gathering
-* Requirement gathering for project initiation, including alignment and architecture design within a network architect group meeting at COLT operator, Barcelona
+**Technical Lead / HR Platform Architect, July 2021 — October 2022**
 
-2012 - 2016, swisscom.ch, Senior Java Developer / Team Lead
-* Technical leadership for a project involving 3TB Oracle database SQL tuning
-* Technical plan for the modification of PL/SQL packages for the use of materialized views and table pre-warming scripts for accelerated patch installation in an 8-node distributed database environment
-* Leadership in a project to tune the transmission rate of network elements over copper twisted pair to 300Mbps
-* Network architecture design for data transmission through population centers around Bern via backup lines, including a Java applet module for network topology visualization
-* Code review of Java code for a group of 7 developers
+Reported to the CEO and led the creation of an internal HR platform that automated hiring, employee management, KPI/OKR workflows, document management, and budgeting.
 
-2010 - 2012, maxis.com.my, Java Developer
-* Automation of the network element configuration for subscriber connection using twisted pair, development of an FAN device connectivity check module
+**Scope of responsibility:**
 
-### KSI (Game Developer C++, September 2009 - September 2010)
+* defining the product and technology strategy of the HR platform
+* leading a 25-person organization covering engineering, QA, DevOps, technical support, and project management
+* building the roadmap and managing internal stakeholder requirements
+* designing the platform architecture and external integrations
+* budget planning and management
+* establishing software engineering, testing, and DevOps processes
+* managing product performance and quality
 
-Responsibilities:
-* Developed 2D+ games using C++
-* Designed performance tests for mathematical modules
-* Synchronized graphics and audio threads for gameplay
+**Key achievements:**
 
-## Key Skills
-Team Leadership
-/ Docker
-/ Mobile App Development
-/ Java EE
-/ Team Building
-/ Git
-/ PostgreSQL
-/ Code Optimization
-/ Django Framework
-/ Flask
-/ Celery
-/ Kubernetes
-/ Firebase Test Lab
-/ Gitlab
-/ Redis
-/ Project Management
-/ Unix
-/ Nginx
-/ Camunda BPM
-/ ORACLE
-/ Python
-/ MySQL
-/ Firebase
-/ Administrative Management
-/ C++
-/ Bash
-/ Flutter
-/ TCP/IP
-/ Agile Project Management
-/ Scrum
+* built the team almost from scratch and established engineering, QA, and production operations processes
+* created a unified employee lifecycle platform covering recruitment through termination
+* automated HR document workflows using electronic signatures
+* launched an employee budget control and quarterly forecasting module
+* created an automated recruitment bot covering resume processing through offer generation; the system issued 3,300 offers
+* standardized UI components across desktop, mobile, and tablet interfaces
 
-## Driving Experience
-* Own a car
-* Category A driver's license
+**Technology:** React, JavaScript, Python, Django, PostgreSQL, Kubernetes, GitLab CI/CD.
 
-## About Me
-<br>16+ years of software development experience, including web, desktop, and mobile application development, BSS/OSS solutions, high-load projects, and cartographic services.
-<br>10 years of experience in IT management, leading teams of up to 90 people.
-<br>Skills in building effective departmental workflows and collaborating with cross-functional teams and internal stakeholders.
-<br>Knowledge and application of Agile, Lean, and Scrum principles.
-<br>Strong management skills, with the ability to build and motivate teams to achieve results.
+### Software Development Outsourcing
 
-Technical Skills:
-* Python, Django, Flask, FastAPI (advanced)
-* Dart, Flutter, Kotlin (advanced)
-* Java EE (intermediate)
-* React (intermediate)
-* C++ (basic)
-* Docker, Kubernetes, Ansible, Gitlab, Jenkins (expert)
-* SQL, PL/SQL, Oracle, PostgreSQL, Redis, Berkeley DB (expert)
-* High-load service development
-* Performance optimization
-* Data transfer protocols based on nats and quic
+**Chief Technology Officer, September 2019 — October 2022**
+
+Founded and developed a custom software development business.
+
+**Scope of responsibility:**
+
+* building a team of software engineers, QA engineers, and analysts
+* sales, presales, and customer engagement
+* defining product and technology strategies for client projects
+* managing engineering delivery, budgets, and legal matters
+* architecting web and mobile solutions
+* operating and monitoring Kubernetes clusters
+* controlling timelines, quality, and project financial performance
+
+**Selected projects:**
+
+* **Irkutsk Oil Company:** secure corporate mobile messenger for more than 8,000 users; designed the data transport architecture based on NATS and QUIC
+* **OPEKA Group:** mobile and backend platform for workforce tracking and piece-rate payroll calculation
+* **Leroy Merlin supplier:** mobile product and technical documentation catalog with name and SKU search
+
+**Technology:** Dart, Flutter, JavaScript, Python, Django, Flask, Celery, PostgreSQL, MySQL, Redis, Kubernetes, Docker, GitLab CI/CD, NGINX, NATS, QUIC, Camunda BPM.
+
+### Netcracker Technology
+
+**Chief Project Manager / Project Manager / Technical Manager / Senior Java Developer, September 2010 — January 2021**
+
+Progressed over ten years from Java Developer to Chief Project Manager leading an international telecom project group and acting as deputy VP.
+
+**Telenet, 2020–2021 — Chief Project Manager, Deputy VP**
+
+* strategic planning for a portfolio of telecom operator projects
+* coordination of ten technical managers
+* financial and resource management of a 90-person organization
+* participation in executive reviews and strategy meetings with Netcracker senior management
+
+**Turkcell, 2019–2020 — Project Manager, Deputy Project Director**
+
+* managed a portfolio of projects and contractual commitments
+* owned roadmaps and managed risks, timelines, and financial commitments
+* planned the full project lifecycle from initiation through production launch
+* conducted business reviews with the customer's executive management in Istanbul
+
+**Colt Technology Services, 2016–2019 — Technical Manager**
+
+* coordinated distributed teams across five time zones
+* managed resource planning for a 20-engineer team
+* coordinated four engineering workstreams
+* gathered requirements and designed BSS/OSS solution architecture
+* organized production support and operational handover
+* participated in international architecture workshops in Barcelona
+
+**Swisscom, 2012–2016 — Senior Java Developer / Team Lead**
+
+* provided technical leadership for performance optimization of a 3 TB Oracle database
+* optimized PL/SQL and production patch deployment for an eight-node distributed database
+* led a project that increased data transmission performance across telecommunications networks
+* designed redundant network routing architecture
+* performed code reviews and provided technical leadership for seven software engineers
+
+**Maxis, 2010–2012 — Java Developer**
+
+* automated network equipment configuration for subscriber provisioning
+* developed network device connectivity and diagnostic modules
+
+**Technology:** Java EE, Oracle, PL/SQL, PostgreSQL, BSS/OSS, distributed systems, telecommunications networks.
+
+### KSI
+
+**C++ Game Developer, September 2009 — September 2010**
+
+* developed 2D games in C++
+* created performance tests for mathematical modules
+* synchronized graphics and audio processing threads
+
+## Technology Expertise
+
+**Architecture:** high-load systems, distributed systems, event-driven architecture, microservices, data platforms, fault tolerance, observability.
+
+**Backend and data:** Python, FastAPI, Flask, Django, Rust, Java, C++, PostgreSQL, Oracle, ClickHouse, Redis, Elasticsearch.
+
+**Infrastructure:** Kubernetes, Docker, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, NGINX, Linux.
+
+**Integration and event processing:** Kafka, Temporal, Celery, NATS, QUIC, REST APIs.
+
+**AI engineering:** AI coding agents, Codex, MCP, Ollama, local LLMs, adoption of AI tools across the SDLC.
+
+## Leadership Expertise
+
+* technology strategy
+* leadership of managers and distributed teams
+* organizational design
+* resource planning and budgeting
+* hiring, onboarding, and employee development
+* roadmap and project portfolio management
+* risk and technical debt management
+* Agile, Scrum, and Lean
+* executive and internal stakeholder management
+* international project delivery
 
 ## Projects
-* [Agent Guides](https://github.com/sawrus/agent-guides) — SDLC for AI agent teams
-* [Mobile Workers](https://sbis.ru/mobile_workers)
-* [Hiring Bot](https://t.me/LATOKEN_hiring_bot)
+
+* [Agent Guides](https://github.com/sawrus/agent-guides) — practical guidance for using AI agent teams across the SDLC
+* [Mobile Workers](https://sbis.ru/mobile_workers) — SBIS product for managing field employees
+* [LATOKEN Hiring Bot](https://t.me/LATOKEN_hiring_bot) — recruitment process automation
 
 ## Education
-2010, Tolyatti State University, Tolyatti
-* Institute of Mathematics, Physics, and Information Technology
-* Mathematical Support and Administration of Information Systems
+
+**Tolyatti State University, 2010**
+
+Institute of Mathematics, Physics, and Information Technology  
+Mathematical Support and Administration of Information Systems
+
+## Additional Education
+
+**Sberbank, 2019**
+
+Business Model Development and Market Research
 
 ## Languages
-* Russian — Native
-* English language proficiency at the B1/B2 level, with experience in organizing and conducting work meetings in English
 
-## Courses
-2019, Sberbank
-* Business Model Development and Market Research, Sberbank
+* Russian — native
+* English — B2, experienced in conducting business meetings and working with international customers
