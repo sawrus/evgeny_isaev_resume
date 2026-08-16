@@ -11,7 +11,7 @@
 
 <div style="clear:both"></div>
 
-<div style="font-size:200%;font-weight:700;line-height:1.2;margin:8px 0 18px">Director of Engineering · Head of Engineering · CTO</div>
+# Director of Engineering / Head of Engineering / CTO
 
 ## Executive Profile
 
@@ -38,11 +38,11 @@ I retain hands-on technical depth in Python, PostgreSQL, Kafka, Kubernetes, and 
 
 ### Company name withheld under NDA
 
-**Head of Development, April 2024 — Present**
+<b>Head of Development, April 2024 — Present</b>
 
 Main product: Antifraud Platform, a high-load decision platform for detecting and preventing fraud.
 
-**Scope of responsibility:**
+<b>Scope of responsibility:</b>
 
 * defining the technology strategy and target architecture of the Antifraud Platform
 * leading Backend, Frontend, DevOps, and QA functions
@@ -55,7 +55,7 @@ Main product: Antifraud Platform, a high-load decision platform for detecting an
 * leading architecture reviews and technology R&D
 * collaborating with business stakeholders, analysts, and infrastructure organizations
 
-**Key achievements:**
+<b>Key achievements:</b>
 
 * initiated the unified Antifraud Platform program, defined its target architecture and technology stack, and developed a roadmap for consolidating fragmented antifraud services
 * launched an automated payout approval process in production
@@ -70,15 +70,15 @@ Main product: Antifraud Platform, a high-load decision platform for detecting an
 * established end-to-end monitoring of services, infrastructure dependencies, and business processes using Prometheus, Grafana, and Elasticsearch
 * began adopting AI coding agents, MCP, and local LLMs in software delivery and engineering R&D
 
-**Technology:** Python, Rust, FastAPI, Flask, JavaScript, PostgreSQL, Redis, ClickHouse, Elasticsearch, Kafka, Kubernetes, Docker, Temporal, GoRules, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, AI/ML.
+<b>Technology:</b> Python, Rust, FastAPI, Flask, JavaScript, PostgreSQL, Redis, ClickHouse, Elasticsearch, Kafka, Kubernetes, Docker, Temporal, GoRules, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, AI/ML.
 
 ### Tensor
 
-**Head of Development, November 2022 — April 2024**
+<b>Head of Development, November 2022 — April 2024</b>
 
 Led the development of SBIS Maps for Russia and CIS countries, including postal address, IP geolocation, delivery route planning, and time-zone services.
 
-**Scope of responsibility:**
+<b>Scope of responsibility:</b>
 
 * leading a software engineering team of more than 10 people
 * defining the product and technology roadmap
@@ -90,7 +90,7 @@ Led the development of SBIS Maps for Russia and CIS countries, including postal 
 * managing product performance, quality, and infrastructure
 * leading technology R&D
 
-**Key achievements:**
+<b>Key achievements:</b>
 
 * reduced the Federal Tax Service registry update cycle from three days to six hours
 * enabled map data updates without service downtime and while maintaining production traffic
@@ -99,15 +99,15 @@ Led the development of SBIS Maps for Russia and CIS countries, including postal 
 * restructured and strengthened the team by hiring four software engineers
 * established an employee assessment and career development process; two engineers were promoted
 
-**Technology:** JavaScript, TypeScript, React, Node.js, C++, Python, PostgreSQL, Redis, Elasticsearch, ClickHouse, Kotlin, Swift, Kubernetes, GitLab CI/CD.
+<b>Technology:</b> JavaScript, TypeScript, React, Node.js, C++, Python, PostgreSQL, Redis, Elasticsearch, ClickHouse, Kotlin, Swift, Kubernetes, GitLab CI/CD.
 
 ### LATOKEN
 
-**Technical Lead / HR Platform Architect, July 2021 — October 2022**
+<b>Technical Lead / HR Platform Architect, July 2021 — October 2022</b>
 
 Reported to the CEO and led the creation of an internal HR platform that automated hiring, employee management, KPI/OKR workflows, document management, and budgeting.
 
-**Scope of responsibility:**
+<b>Scope of responsibility:</b>
 
 * defining the product and technology strategy of the HR platform
 * leading a 25-person organization covering engineering, QA, DevOps, technical support, and project management
@@ -117,7 +117,7 @@ Reported to the CEO and led the creation of an internal HR platform that automat
 * establishing software engineering, testing, and DevOps processes
 * managing product performance and quality
 
-**Key achievements:**
+<b>Key achievements:</b>
 
 * built the team almost from scratch and established engineering, QA, and production operations processes
 * created a unified employee lifecycle platform covering recruitment through termination
@@ -126,15 +126,15 @@ Reported to the CEO and led the creation of an internal HR platform that automat
 * created an automated recruitment bot covering resume processing through offer generation; the system issued 3,300 offers
 * standardized UI components across desktop, mobile, and tablet interfaces
 
-**Technology:** React, JavaScript, Python, Django, PostgreSQL, Kubernetes, GitLab CI/CD.
+<b>Technology:</b> React, JavaScript, Python, Django, PostgreSQL, Kubernetes, GitLab CI/CD.
 
 ### Software Development Outsourcing
 
-**Chief Technology Officer, September 2019 — October 2022**
+<b>Chief Technology Officer, September 2019 — October 2022</b>
 
 Founded and developed a custom software development business.
 
-**Scope of responsibility:**
+<b>Scope of responsibility:</b>
 
 * building a team of software engineers, QA engineers, and analysts
 * sales, presales, and customer engagement
@@ -144,35 +144,35 @@ Founded and developed a custom software development business.
 * operating and monitoring Kubernetes clusters
 * controlling timelines, quality, and project financial performance
 
-**Selected projects:**
+<b>Selected projects:</b>
 
-* **Irkutsk Oil Company:** secure corporate mobile messenger for more than 8,000 users; designed the data transport architecture based on NATS and QUIC
-* **OPEKA Group:** mobile and backend platform for workforce tracking and piece-rate payroll calculation
-* **Leroy Merlin supplier:** mobile product and technical documentation catalog with name and SKU search
+* <b>Irkutsk Oil Company:</b> secure corporate mobile messenger for more than 8,000 users; designed the data transport architecture based on NATS and QUIC
+* <b>OPEKA Group:</b> mobile and backend platform for workforce tracking and piece-rate payroll calculation
+* <b>Leroy Merlin supplier:</b> mobile product and technical documentation catalog with name and SKU search
 
-**Technology:** Dart, Flutter, JavaScript, Python, Django, Flask, Celery, PostgreSQL, MySQL, Redis, Kubernetes, Docker, GitLab CI/CD, NGINX, NATS, QUIC, Camunda BPM.
+<b>Technology:</b> Dart, Flutter, JavaScript, Python, Django, Flask, Celery, PostgreSQL, MySQL, Redis, Kubernetes, Docker, GitLab CI/CD, NGINX, NATS, QUIC, Camunda BPM.
 
 ### Netcracker Technology
 
-**Chief Project Manager / Project Manager / Technical Manager / Senior Java Developer, September 2010 — January 2021**
+<b>Chief Project Manager / Project Manager / Technical Manager / Senior Java Developer, September 2010 — January 2021</b>
 
 Progressed over ten years from Java Developer to Chief Project Manager leading an international telecom project group and acting as deputy VP.
 
-**Telenet, 2020–2021 — Chief Project Manager, Deputy VP**
+<b>Telenet, 2020–2021 — Chief Project Manager, Deputy VP</b>
 
 * strategic planning for a portfolio of telecom operator projects
 * coordination of ten technical managers
 * financial and resource management of a 90-person organization
 * participation in executive reviews and strategy meetings with Netcracker senior management
 
-**Turkcell, 2019–2020 — Project Manager, Deputy Project Director**
+<b>Turkcell, 2019–2020 — Project Manager, Deputy Project Director</b>
 
 * managed a portfolio of projects and contractual commitments
 * owned roadmaps and managed risks, timelines, and financial commitments
 * planned the full project lifecycle from initiation through production launch
 * conducted business reviews with the customer's executive management in Istanbul
 
-**Colt Technology Services, 2016–2019 — Technical Manager**
+<b>Colt Technology Services, 2016–2019 — Technical Manager</b>
 
 * coordinated distributed teams across five time zones
 * managed resource planning for a 20-engineer team
@@ -181,7 +181,7 @@ Progressed over ten years from Java Developer to Chief Project Manager leading a
 * organized production support and operational handover
 * participated in international architecture workshops in Barcelona
 
-**Swisscom, 2012–2016 — Senior Java Developer / Team Lead**
+<b>Swisscom, 2012–2016 — Senior Java Developer / Team Lead</b>
 
 * provided technical leadership for performance optimization of a 3 TB Oracle database
 * optimized PL/SQL and production patch deployment for an eight-node distributed database
@@ -189,16 +189,16 @@ Progressed over ten years from Java Developer to Chief Project Manager leading a
 * designed redundant network routing architecture
 * performed code reviews and provided technical leadership for seven software engineers
 
-**Maxis, 2010–2012 — Java Developer**
+<b>Maxis, 2010–2012 — Java Developer</b>
 
 * automated network equipment configuration for subscriber provisioning
 * developed network device connectivity and diagnostic modules
 
-**Technology:** Java EE, Oracle, PL/SQL, PostgreSQL, BSS/OSS, distributed systems, telecommunications networks.
+<b>Technology:</b> Java EE, Oracle, PL/SQL, PostgreSQL, BSS/OSS, distributed systems, telecommunications networks.
 
 ### KSI
 
-**C++ Game Developer, September 2009 — September 2010**
+<b>C++ Game Developer, September 2009 — September 2010</b>
 
 * developed 2D games in C++
 * created performance tests for mathematical modules
@@ -206,15 +206,15 @@ Progressed over ten years from Java Developer to Chief Project Manager leading a
 
 ## Technology Expertise
 
-**Architecture:** high-load systems, distributed systems, event-driven architecture, microservices, data platforms, fault tolerance, observability.
+<b>Architecture:</b> high-load systems, distributed systems, event-driven architecture, microservices, data platforms, fault tolerance, observability.
 
-**Backend and data:** Python, FastAPI, Flask, Django, Rust, Java, C++, PostgreSQL, Oracle, ClickHouse, Redis, Elasticsearch.
+<b>Backend and data:</b> Python, FastAPI, Flask, Django, Rust, Java, C++, PostgreSQL, Oracle, ClickHouse, Redis, Elasticsearch.
 
-**Infrastructure:** Kubernetes, Docker, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, NGINX, Linux.
+<b>Infrastructure:</b> Kubernetes, Docker, GitLab CI/CD, Prometheus, Grafana, S3/MinIO, NGINX, Linux.
 
-**Integration and event processing:** Kafka, Temporal, Celery, NATS, QUIC, REST APIs.
+<b>Integration and event processing:</b> Kafka, Temporal, Celery, NATS, QUIC, REST APIs.
 
-**AI engineering:** AI coding agents, Codex, MCP, Ollama, local LLMs, adoption of AI tools across the SDLC.
+<b>AI engineering:</b> AI coding agents, Codex, MCP, Ollama, local LLMs, adoption of AI tools across the SDLC.
 
 ## Leadership Expertise
 
