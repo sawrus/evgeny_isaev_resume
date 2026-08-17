@@ -15,7 +15,7 @@
 
 ## Executive Profile
 
-Engineering leader with 16 years of experience in software development and more than 10 years in engineering and technology management. Led organizations of up to 90 people, including internationally distributed teams.
+Engineering leader with 17 years of experience in software development and more than 10 years in engineering and technology management. Led organizations of up to 90 people, including internationally distributed teams.
 
 I specialize in high-load fintech, antifraud, data-intensive systems, engineering platforms, and business-critical production infrastructure. I build and develop engineering functions end to end: technology strategy, architecture, organizational design, resource planning, hiring and people development, SDLC, production reliability, and technical debt management.
 
